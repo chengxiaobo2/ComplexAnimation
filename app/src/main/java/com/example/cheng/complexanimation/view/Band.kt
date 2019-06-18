@@ -26,7 +26,7 @@ class Band : View {
     var _curveControlB0 = 115.0f
     var _curveControlB1 = 50.0f
 
-    internal var _paint = Paint()
+    internal var _paint = Paint(Paint.ANTI_ALIAS_FLAG)
     internal var _path = Path()
 
     constructor(context: Context?) : super(context) {
