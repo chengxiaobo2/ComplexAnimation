@@ -388,4 +388,4 @@
      都会根据小球的translationY/maxTranslationY=fraction 根据fraction的值来计算出，贝塞尔曲线的两个控制点的值，这样的话，就能实现，当小球在上面的时候，凹的形状比较大，小球在下面的时候，凹的形状比较小的效果了。<br>
      <img src="pic/c_6.png" width=200 ><br>
   * 最终效果<br>
-   <img src="pic/c_4.gif" width=400 ><br>
+   <img src="pic/c_4.gif" width=400 ><br>  
